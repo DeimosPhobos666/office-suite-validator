@@ -1,0 +1,13 @@
+# Normalize line endings
+*.woff2 binary
+package-lock.json linguist-generated
+*.yml linguist-detectable=false
+
+*.htm linguist-vendored
+src/**/*.js linguist-detectable
+*.svg text
+
+build/* linguist-vendored
+public/*.html linguist-vendored
+
+# eof 45ae17d9
