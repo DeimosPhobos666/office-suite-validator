@@ -1,0 +1,4 @@
+coverage/
+.env
+.pnpm-store/
+_site/
